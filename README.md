@@ -1,5 +1,6 @@
 # Merge-Sort-Projects
-[16,21,11,8,12,22]
+[
+                    16,21,11,8,12,22]
                       
    
    [16,21,11]                                 [8,12,22]                 We continue by dividing our array into two until only one unit remains.
@@ -18,3 +19,5 @@
 
 
                   [8,11,12,16,21,22]
+
+
